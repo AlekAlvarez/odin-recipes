@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: darkorchid;
+}
+h1{
+    height:70px;
+    vertical-align: middle;
+    font-size: 50px;
+    font-weight: 900;
+}
+li{
+    height:30px;
+    font-size: medium;
+}
+p{
+    font: small;
+}
+h2{
+    height:50px;
+    font-size: large;
+}
